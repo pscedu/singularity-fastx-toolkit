@@ -13,11 +13,6 @@ whatis("URL: https://www.psc.edu/resources/software")
 whatis("Description: The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.")
 
 help([[
-fastx-toolkit 0.0.14
---------------------
-
-Description
------------
 The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.
 
 To load the module, type
@@ -35,10 +30,6 @@ http://hannonlab.cshl.edu/fastx_toolkit/commandline.html
 For help, type for example
 
 > fastq_to_fasta -h
-
-Repository
-----------
-https://github.com/agordon/fastx_toolkit
 
 Tools included in this module are
 
